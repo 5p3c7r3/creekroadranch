@@ -4,12 +4,14 @@ title: Protective Covenants
 group: navigation-about
 ---
 
-Protective Covenants
-First Supplement to Covenants 2004/05
+<a href="/pcdg/pcdg1-579013.pdf" target="_blank">Protective Covenants</a>
 
-Second Supplement to Covenants 2006/11
+<a href="/pcdg/pcdg2-2039423.pdf" target="_blank">First Supplement to Covenants 2004/05</a>
 
-Third Supplemental Declaration 01-16-15
+<a href="/pcdg/pcdg3-3966790.pdf" target="_blank">Second Supplement to Covenants 2006/11</a>
 
-Design Guidelines
-Second Amendment Design Guidelines 01-16-15
+<a href="/pcdg/pcdg4-Third-Supplemental-Declaration-01-16-15.pdf" target="_blank">Third Supplemental Declaration 01-16-15</a>
+
+<a href="/pcdg/pcdg5-Design-Guidelines2.pdf" target="_blank">Design Guidelines</a>
+
+<a href="/pcdg/pcdg6-Second-Amendment-Design-Guidelines-01-16-15.pdf" target="_blank">Second Amendment Design Guidelines 01-16-15</a>

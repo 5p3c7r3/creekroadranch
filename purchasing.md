@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Purchase Information
-
+title: Purchasing
+group: navigation
 ---
 
 For resale certificates or other HOA-related questions, please contact the managing agent for the association:
