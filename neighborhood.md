@@ -12,21 +12,18 @@ HOA documents such as financial reports and minutes of annual meetings.
 </p>
 <p>Visit <a href="https://groups.google.com/forum/#!forum/creek-road-ranch-hoa">Creek Road Ranch Google Group</a> join or access the group!</p>
 
-<p>
-Next Board of Directors Meeting:<br/>
-Monday, July 27th 5:30pm<br/>
-The Barber Shop, 207 W Mercer St, Dripping Springs, TX.<br/>
-</p>
-
-### Agenda:
-
-<p>
-1) Call to Order<br/>
-2) Proof of Notice<br/>
-3) Approve Minutes from Previous Board Meeting<br/>
-4) 2Q ’15 Financial Results<br/>
-5) DRC Committee Composition<br/>
-6) Other new business<br/>
-7) Executive Session<br/>
-8) Adjourn<br/><br/>
-</p>
+<h2>Upcoming Board of Directors Meeting</h2>
+<p><b>WHEN</b> - Monday, October 10th, 5pm</p>
+<p><b>Location</b> – Hudson’s on Mercer, 381 Mercer St, Dripping Springs, TX 78620</p> 
+<h3>Agenda-</h3>
+<ul>
+<li>Call to Order</li>
+<li>Proof of Notice</li>
+<li>Review Q3 Financial Reports</li>
+<li>Discuss 2017 Budget Proposal</li>
+<li>2017 Membership Meeting</li>
+<li>Resident concerns voiced to Board</li>
+<li>Other New Business</li>
+<li>Executive Session</li>
+<li>Adjourn</li>
+</ul>
