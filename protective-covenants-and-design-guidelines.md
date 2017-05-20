@@ -4,6 +4,8 @@ title: Protective Covenants
 group: navigation-about
 ---
 
+<a href="/pcdg/gate_guidelines.pdf" target="_blank">Gate Guidelines</a>
+
 <a href="/pcdg/pcdg1-579013.pdf" target="_blank">Protective Covenants</a>
 
 <a href="/pcdg/pcdg2-2039423.pdf" target="_blank">First Supplement to Covenants 2004/05</a>
