@@ -19,9 +19,7 @@ HOA documents such as financial reports and minutes of annual meetings.
 <ul>
 <li>Call to Order</li>
 <li>Proof of Notice</li>
-<li>Review Q3 Financial Reports</li>
-<li>Discuss 2018 Budget Proposal</li>
-<li>2018 Membership Meeting</li>
+<li>Review Q1 Financial Reports</li>
 <li>Resident concerns voiced to Board</li>
 <li>Other New Business</li>
 <li>Executive Session</li>
