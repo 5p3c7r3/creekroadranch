@@ -13,7 +13,7 @@ HOA documents such as financial reports and minutes of annual meetings.
 <p>Visit <a href="https://groups.google.com/forum/#!forum/creek-road-ranch-hoa">Creek Road Ranch Google Group</a> join or access the group!</p>
 
 <h2>Upcoming Board of Directors Meeting</h2>
-<p><b>WHEN</b> - Wednesday, May 23rd at 6 PM</p>
+<p><b>WHEN</b> - Monday, June 4th at 6 PM</p>
 <p><b>Location</b> – Barber Shop, 207 Mercer St, Dripping Springs</p>
 <h3>Agenda-</h3>
 <ul>
